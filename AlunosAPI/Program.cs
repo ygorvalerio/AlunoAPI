@@ -24,6 +24,3 @@ app.MapControllers();
 
 app.Run();
 
-///Testettttt
-///testedddd
-///agora vaimmm
